@@ -1,0 +1,8 @@
+{
+  "name": "karma-nc-reporter",
+  "version": "1.0.0",
+  "description": "Parses correct line numbers from source maps for transpiled JavaScript.",
+  "main": "index.js",
+  "author": "Stuart Pearlman",
+  "license": "MIT"
+}
